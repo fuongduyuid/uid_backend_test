@@ -18,11 +18,11 @@
 
 ![Fill in the question mark](./images/blocks.png)
 
-## 5. Tìm hình phù hợp điền vào dấu "?" (1 điểm)
+## 5. Tìm hình phù hợp điền vào dấu "?" (1.5 điểm)
 
 ![Fill in the question mark](./images/question_5.png)
 
-## 6. Tìm số còn thiếu trong dấu "?" (1 điểm)
+## 6. Tìm số còn thiếu trong dấu "?" (1.5 điểm)
 
 ![Fill in the question mark](./images/question_6.png)
 
@@ -34,10 +34,10 @@
 
 ![Fill in the question mark](./images/question_8.png)
 
-## 9. Điền hình còn thiếu vào dấu "?"
+## 9. Điền hình còn thiếu vào dấu "?" (1.5 điểm)
 
 ![Fill in the question mark](./images/question_9.png)
 
-## 10. Trả lời câu hỏi trong hình dưới đây.
+## 10. Trả lời câu hỏi trong hình dưới đây. (1.5 điểm)
 
 ![Fill in the question mark](./images/question_10.png)
