@@ -1,37 +1,43 @@
 # Backend developer questions
 
-## 1. Thêm các biểu thức toán học (+, -, \*, /, !, <sup>2</sup> ) để có phép toán đúng:
+## 1. Thêm các biểu thức toán học (+, -, \*, /, !, <sup>2</sup> ) để có phép toán đúng: (1 điểm)
 
 ### 0 0 0 0 0 = 120
 
+## 2. Thêm các biểu thức toán học (+, -, \*, /, !, <sup>2</sup> ) để có phép toán đúng (Khuyến khích đưa ra nhiều đáp án.) (1 điểm)
+
 ### 3 1 3 6 = 8
 
-## 2. Điền 1 số phù hợp với cả 2 dãy số bên dưới vào dấu "?" và giải thích.
+## 3. Điền số phù hợp với cả 2 dãy số bên dưới vào dấu "?" và giải thích. (1.5 điểm)
 
 ### 119 | 108 | 99 | 81 | ?
 
 ### 117 | 108 | 90 | 81 | ?
 
-## 3. Trả lời câu hỏi cho hình dưới đây
+## 4. Điền hình còn thiếu vào dấu "?" (1 điểm)
 
-![Which cup filled first?](./images/which_cup_filled_first.jpeg)
+![Fill in the question mark](./images/blocks.png)
 
-## 4. Tìm hình phù hợp điền vào dấu "?"
+## 5. Tìm hình phù hợp điền vào dấu "?" (1 điểm)
 
-![Fill in the question mark](./images/choose_next_man.jpg)
+![Fill in the question mark](./images/question_5.png)
 
-## 5. Tìm số còn thiếu trong dấu "?"
+## 6. Tìm số còn thiếu trong dấu "?" (1 điểm)
 
-![Fill in the question mark](./images/next_number.png)
+![Fill in the question mark](./images/question_6.png)
 
-## 6. Tìm số còn thiếu trong dấu "??"
+## 7.Tìm hình phù hợp điền vào dấu "?" (1.5 điểm)
 
-![Fill in the question mark](./images/next_number_2.jpg)
+![Fill in the question mark](./images/question_7.png)
 
-## 7. Điền số còn thiếu vào dấu "?"
+## 8. Điền vào dấu "?" (1.5 điểm)
 
-![Fill in the question mark](./images/question_mark_fill.png)
+![Fill in the question mark](./images/question_8.png)
 
-## 8. Có 25 con ngựa, cần tìm ra 3 con chạy nhanh nhất. Mỗi lần cho đua tối đa 5 con, kết quả dựa trên việc con nào tới đích trước mà không dựa theo đồng hồ. Giả định tốc độ của các con ngựa qua các vòng đua là không đổi thì số vòng đua tối thiểu để tìm ra 3 con ngựa chạy nhanh nhất?
+## 9. Điền hình còn thiếu vào dấu "?"
 
-## 9. Có 1 quả đồi đối xứng 2 bên với tổng độ dài từ chân dốc này sang chân dốc kia là 2km, 1 người chạy xe máy từ dưới chân đồi lên đỉnh đồi với vận tốc 15km/h, hỏi từ đỉnh đồi chạy xuống chân đồi bên kia phải đi với vận tốc bao nhiêu km/h để vận tốc trung bình của cả quảng đường là 30km/h?
+![Fill in the question mark](./images/question_9.png)
+
+## 10. Trả lời câu hỏi trong hình dưới đây.
+
+![Fill in the question mark](./images/question_10.png)
