@@ -27,19 +27,25 @@ greetingJohn('Good morning') // => ?
 })();
 ```
 
-## 7. Cho đoạn code sau, kết quả khi thực hiện đoạn code là gì? Giải thích.
+## 7. Cho đoạn code sau hãy cải thiện nó bằng cách dùng đệ quy (recursion)
 
 ```
-var hero = {
-    _name: 'John Doe',
-    getSecretIdentity: function (){
-        return this._name;
+function greatestCommonDivisor (a, b) {
+    if(a === b){
+        return a
     }
-};
-
-var stoleSecretIdentity = hero.getSecretIdentity;
-
-console.log(stoleSecretIdentity());
+    while (a != b)
+    {
+        if (a > b)
+        {
+        a -= b;
+        }
+        else if (b > a)
+        {
+        b -= a;
+        }
+    }
+}
 ```
 
 ## 8. Cho đoạn code sau, nhận xét điểm chưa tốt và nêu cách khắc phục
