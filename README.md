@@ -42,4 +42,32 @@ var stoleSecretIdentity = hero.getSecretIdentity;
 console.log(stoleSecretIdentity());
 ```
 
-## 8. Bạn có thuật toán yêu thích nào không? Nếu có thì vì sao bạn thích nó và bạn đã ứng dựng nó như thế nào trong công việc?
+## 8. Cho đoạn code sau, nhận xét điểm chưa tốt và nêu cách khắc phục
+
+```
+function whenCreate(){
+ var role = myServer.getSessionRole();
+
+ if (role == 0){
+     createStudent();
+ }
+}
+
+function whenEdit(){
+ var role = myServer.getSessionRole();
+
+ if (role == 0){
+     editStudent();
+ }
+}
+
+function whenDelete(){
+ var role = myServer.getSessionRole();
+
+ if (role == 0){
+     deleteStudent();
+ }
+}
+```
+
+## 9. Bạn có thuật toán yêu thích nào không? Nếu có thì vì sao bạn thích nó và bạn đã ứng dựng nó như thế nào trong công việc?
